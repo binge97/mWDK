@@ -1,2 +1,2 @@
 # mWDK
-codes
+<meta name="robots" content="noindex">
